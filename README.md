@@ -1,2 +1,2 @@
-# 24WMR09152-Prac5
+New configuration file format: config.json is now required.
 
